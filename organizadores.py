@@ -1,3 +1,4 @@
+# CON ESTOS EJERCICIOS APRENDEREMOS UN POCO SOBRE LAS LISTAS Y LOS DICCIONARIOS
 # Vamos a crear un sistema que maneje una lista de juegos más vendidos y un diccionario con los detalles de una consola.
 
 print("---EJEMPLO 1: NUESTRA LISTA DE VIDEOJUEGOS---")
